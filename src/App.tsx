@@ -1,7 +1,7 @@
 import './App.css';
 import Header from './components/Header';
 import List from './components/List';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 import BreweryInfo from './pages/BreweryInfo';
 
 export default function App() {
